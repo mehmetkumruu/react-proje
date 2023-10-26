@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Git & Github giriş dersi w/Archis academy
+          Git & Github giriş eğitimi w/mehmet&Archi academy
         </p>
         <a
           className="App-link"
